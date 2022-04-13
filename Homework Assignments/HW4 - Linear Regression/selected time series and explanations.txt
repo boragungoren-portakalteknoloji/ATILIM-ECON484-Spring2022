@@ -1,0 +1,6 @@
+TP KTF10        İhtiyaç (TL Üzerinden Açılan)
+TP KTF101       İhtiyaç (KMH Dahil)(TL Üzerinden Açılan)
+TP KTF11        Taşıt (TL Üzerinden Açılan)
+TP KTF12        Konut (TL Üzerinden Açılan)
+TP KTF17        Ticari (TL Üzerinden Açılan)
+TP KTF18        Ticari Krediler (TL Üzerinden Açılan)(Tüzel Kişi KMH ve Kurumsal Kredi Kartları Hariç)
