@@ -6,3 +6,5 @@ This dataset is from a course with 3 sections. There are some notes to consider:
 5. Projects were different for teams obviously but were graded by both instructors. 
 
 When you are creating your data model from this data set, you should take some time to integrate the above notes. Please do not immediately jump to read_csv function.
+
+There are also a few necessary small steps in cleaning your data. 
