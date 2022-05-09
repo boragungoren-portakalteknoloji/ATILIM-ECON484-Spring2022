@@ -1,0 +1,8 @@
+This dataset is from a course with 3 sections. There are some notes to consider:
+1. Instructor for Section 1 graded Quizzes over 10 points and had 5 quizzes. 
+2. Instructor for Sections 2 and 3 graded Quizzes over 100 points and had 4 quizzes. 
+3. The quiz exam contents in Section 1 was different than those for Sections 2 and 3. 
+4. Homeworks, Midterms, Finals were exactly the same and graded by both instructors. 
+5. Projects were different for teams obviously but were graded by both instructors. 
+
+When you are creating your data model from this data set, you should take some time to integrate the above notes. Please do not immediately jump to read_csv function.
